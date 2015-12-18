@@ -1,0 +1,25 @@
+{
+  "name": "async-browser-only",
+  "description": "Async library that works only in browsers",
+  "main": "lib/async-browser-only.js",
+  "authors": [
+    "Hazar <hazarilhan@sabanciuniv.edu>"
+  ],
+  "license": "ISC",
+  "version": "0.0.1",
+  "moduleType": [
+    "globals"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/batilc1/async-browser-only.git"
+  }
+}
